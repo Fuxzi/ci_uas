@@ -32,7 +32,7 @@ sales_order/
 │       ├── products/index.php + form.php
 │       └── order/index.php + form.php + detail.php
 ├── .htaccess
-└── database.sql               ← import ini dulu
+└── sales_order.sql               ← import ini dulu
 ```
 
 ---
