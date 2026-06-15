@@ -91,5 +91,5 @@ LoadModule rewrite_module modules/mod_rewrite.so
 - [x] Buat Sales Order (Admin & Sales)
 - [x] Daftar & Detail Order
 - [x] Ubah Status Order (Admin & Manager)
-- [ x] CRUD Pelanggan
-- [ x] Laporan & Export PDF
+- [x] CRUD Pelanggan
+- [x] Laporan & Export PDF
