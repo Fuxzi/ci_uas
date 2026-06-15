@@ -49,7 +49,7 @@ Salin isi CI ke dalam folder `sales_order/` di `htdocs` (XAMPP).
 Timpa/copy semua file dari folder `application/` ke dalam CI.
 
 ### 4. Import Database
-Buka phpMyAdmin → Import → pilih file `database.sql`
+Buka phpMyAdmin → Import → pilih file `sales_order.sql`
 
 ### 5. Konfigurasi
 Edit `application/config/database.php`:
@@ -91,5 +91,5 @@ LoadModule rewrite_module modules/mod_rewrite.so
 - [x] Buat Sales Order (Admin & Sales)
 - [x] Daftar & Detail Order
 - [x] Ubah Status Order (Admin & Manager)
-- [ ] CRUD Pelanggan (perlu ditambahkan - struktur sama dengan Produk)
-- [ ] Laporan & Export PDF
+- [ x] CRUD Pelanggan
+- [ x] Laporan & Export PDF
