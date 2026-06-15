@@ -49,7 +49,8 @@
             <strong>Demo Login:</strong><br>
             Admin: admin / password<br>
             Sales: budi / password<br>
-            Manager: manager / password
+            Manager: manager / password<br>
+            <strong>Notes : Please Import The Database First!!!</strong>
           </small>
         </div>
       </div>
